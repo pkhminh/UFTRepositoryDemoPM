@@ -7,3 +7,4 @@ Browser("Login").Page("BACKLOG - Features").Link("TEAM BACKLOG").Click
 Browser("Login").Page("TEAM BACKLOG_2").WebButton("Team Management").Click
 Browser("Login").CloseAllTabs
 
+'Comment chouette
